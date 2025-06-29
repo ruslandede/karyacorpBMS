@@ -1,8 +1,8 @@
 🏢 Building Management System — Business Analyst Role
 
-Duration: 4 months
-Team Size: 4 members
-Platform: Android & Web
+- **Duration:** 4 months  
+- **Team Size:** 4 members  
+- **Platform:** Android & Web  
 
 As a Business Analyst at Karya Corp, I played a key role in a cross-functional team to develop a comprehensive Building Management System designed for both mobile and web platforms. This project aimed to optimize building maintenance operations by allowing mobile-based task handling and providing a robust web-based admin dashboard.
 
