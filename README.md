@@ -16,7 +16,7 @@ Created core documentation to support development and stakeholder alignment:
 
 🔁 Flowcharts to define system and process logic
 
-🗃️ Entity-Relationship (ER) Diagrams for database modeling [ERD] ([https://docs.google.com/document/d/1SU6He6oPc9T8WFIe-ybSyTfPKwoZqSlf/edit?usp=sharing&ouid=105262209059847961337&rtpof=true&sd=true](https://drive.google.com/file/d/1X-DuyDcZxfr8WccQ-XcbAXyF2OeXVPb-/view?usp=sharing)).
+🗃️ Entity-Relationship (ER) Diagrams for database modeling [ERD] (https://drive.google.com/file/d/1X-DuyDcZxfr8WccQ-XcbAXyF2OeXVPb-/view?usp=sharing).
 
 Facilitated effective communication between technical and non-technical stakeholders to ensure requirements were well-understood and properly implemented.
 
